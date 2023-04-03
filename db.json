@@ -1,5 +1,5 @@
-{
-"productivity": { 
+{ 
+ "productivity": { 
  "set_attributes": { 
  "voucher_code": "" 
  }, 
@@ -18,7 +18,25 @@
  } 
  } 
  ] 
-}
-"coding-day":
-{ "set_attributes": { "voucher_code": "" }, "messages": [ { "type": "text", "content": { "text": "✌️akaWORK gửi bạn Hiếu thông tin trung bình số ngày code của mình trong thời gian từ ngày 03/01/2023 đến ngày 03/04/2023 này nhé:\n\n⚡️Hiếu: LOCs: 114.36 LOCs/week\n⚡️Target LOCs của dự án: 200 LOCs/week\n\nNgoài ra bạn Hiếu có muốn xem những chỉ số khác của mình trong [time_range] này không? Bấm hỏi akaWORK sẽ trả lời:\n\n1. Efficiency\n2. Commits\n3. Coding days\n4. Rework\n[...]", "buttons": [ { "title": "View Detail", "payload": null, "url": "https://www.google.com.vn/" } ] } } ] }
+ }, 
+ "coding-day": { 
+ "set_attributes": { 
+ "voucher_code": "" 
+ }, 
+ "messages": [ 
+ { 
+ "type": "text", 
+ "content": { 
+ "text": "✌️akaWORK gửi bạn Hiếu thông tin trung bình số ngày code của mình trong thời gian từ ngày 03/01/2023 đến ngày 03/04/2023 này nhé:\n\n⚡️Hiếu: LOCs: 114.36 LOCs/week\n⚡️Target LOCs của dự án: 200 LOCs/week\n\nNgoài ra bạn Hiếu có muốn xem những chỉ số khác của mình trong [time_range] này không? Bấm hỏi akaWORK sẽ trả lời:\n\n1. Efficiency\n2. Commits\n3. Coding days\n4. Rework\n[...]", 
+ "buttons": [ 
+ { 
+ "title": "View Detail", 
+ "payload": null, 
+ "url": "https://google.com.vn" 
+ } 
+ ] 
+ } 
+ } 
+ ] 
+ } 
 }

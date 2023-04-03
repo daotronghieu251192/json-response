@@ -1,0 +1,20 @@
+{ 
+ "set_attributes": { 
+ "voucher_code": "" 
+ }, 
+ "messages": [ 
+ { 
+ "type": "text", 
+ "content": { 
+ "text": "Dev productivity của user \"Hieudt13\" từ ngày 03/01/2023 đến ngày 03/04/2023:\n- LOCs: 114.36 LOCs/week\n- Number of commits: 9.36 commits/weeks\n- Efficiency: 28.85%\n- Coding day: 2.57% days/week\n- Rework: 3.72%\n- Pull Request size: 111.64% days/week\n- Pull Request size: 111.64% LOCs/week\n- Pull Request Merged with Reviewed: 0.43% pr/week\n- Pull Request Merged without Reviewed: 0.21% pr/week", 
+ "buttons": [ 
+ { 
+ "title": "View Detail", 
+ "payload": null, 
+ "url": "https://devops-stg.fsoft.com.vn/#/products/1ca16378-4b59-44e4-aa44-0239e92cc8c4/project-insight/gam.dci.gam.dci.akawork2023/dev-productivity" 
+ } 
+ ] 
+ } 
+ } 
+ ] 
+}

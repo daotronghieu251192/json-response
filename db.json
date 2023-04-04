@@ -7,7 +7,7 @@
  { 
  "type": "text", 
  "content": { 
- "text": "Dev productivity của user \"Hiếu\" từ ngày 03/01/2023 đến ngày 03/04/2023:\n- LOCs: 114.36 LOCs/week\n- Number of commits: 9.36 commits/weeks\n- Efficiency: 28.85%\n- Coding day: 2.57% days/week\n- Rework: 3.72%\n- Pull Request size: 111.64% days/week\n- Pull Request size: 111.64% LOCs/week\n- Pull Request Merged with Reviewed: 0.43% pr/week\n- Pull Request Merged without Reviewed: 0.21% pr/week", 
+ "text": "Dev productivity của user \"Hiếu\" từ ngày 03/01/2023 đến ngày 03/04/2023:\n\n- LOCs: 167.71 LOCs/week\n- Number of commits: 9.57 commits/weeks\n- Efficiency: 39.11%\n- Coding day: 2.57 days/week\n- Rework: 3.75%\n- Pull Request size: 168.21 LOCs/week\n- Pull Request Merged with Reviewed: 0.5 pr/week\n- Pull Request Merged without Reviewed: 0.21 pr/week", 
  "buttons": [ 
  { 
  "title": "View Detail", 
@@ -27,7 +27,7 @@
  { 
  "type": "text", 
  "content": { 
- "text": "✌️akaWORK gửi bạn Hiếu thông tin trung bình số ngày code của mình trong thời gian từ ngày 03/01/2023 đến ngày 03/04/2023 này nhé:\n\n⚡️Hiếu: LOCs: 114.36 LOCs/week\n⚡️Target LOCs của dự án: 200 LOCs/week\n\nNgoài ra bạn Hiếu có muốn xem những chỉ số khác của mình trong [time_range] này không? Bấm hỏi akaWORK sẽ trả lời:\n\n1. Efficiency\n2. Commits\n3. Coding days\n4. Rework\n[...]", 
+ "text": "✌️akaWORK gửi bạn Hiếu thông tin trung bình số ngày code của mình trong thời gian từ ngày 03/01/2023 đến ngày 03/04/2023 này nhé:\n\n⚡️Hiếu: Coding day: 2.57 days/week\n⚡️Target Coding day của dự án: 3.3 days/week\n\nNgoài ra bạn Hiếu có muốn xem những chỉ số khác của mình trong [time_range] này không? Bấm hỏi akaWORK sẽ trả lời:\n\n1. Efficiency\n2. Commits\n3. LOCs\n4. Rework\n[...]", 
  "buttons": [ 
  { 
  "title": "View Detail", 
@@ -38,5 +38,25 @@
  } 
  } 
  ] 
+ },
+ "locs": { 
+ "set_attributes": { 
+ "voucher_code": "" 
+ }, 
+ "messages": [ 
+ { 
+ "type": "text", 
+ "content": { 
+ "text": "✌️akaWORK gửi bạn Hiếu thông tin trung bình số ngày code của mình trong thời gian từ ngày 03/01/2023 đến ngày 03/04/2023 này nhé:\n\n⚡️Hiếu: LOCs: 167.71 LOCs/week\n⚡️Target LOCs của dự án: 500 LOCs/week\n\nNgoài ra bạn Hiếu có muốn xem những chỉ số khác của mình trong [time_range] này không? Bấm hỏi akaWORK sẽ trả lời:\n\n1. Efficiency\n2. Commits\n3. Coding days\n4. Rework\n[...]", 
+ "buttons": [ 
+ { 
+ "title": "View Detail", 
+ "payload": null, 
+ "url": "https://google.com.vn" 
  } 
+ ] 
+ } 
+ } 
+ ] 
+ }
 }

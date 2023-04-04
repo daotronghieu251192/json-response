@@ -7,7 +7,7 @@
  { 
  "type": "text", 
  "content": { 
- "text": "Dev productivity của user \"Hiếu\" từ ngày 03/01/2023 đến ngày 03/04/2023:\n\n- LOCs: 167.71 LOCs/week\n- Number of commits: 9.57 commits/weeks\n- Efficiency: 39.11%\n- Coding day: 2.57 days/week\n- Rework: 3.75%\n- Pull Request size: 168.21 LOCs/week\n- Pull Request Merged with Reviewed: 0.5 pr/week\n- Pull Request Merged without Reviewed: 0.21 pr/week", 
+ "text": "Dev productivity của user \"Hiếu\" từ ngày 03/01/2023 đến ngày 03/04/2023:\n\n- LOCs: 167.71 LOCs/week\n- Number of commits: 9.57 commits/weeks\n- Efficiency: 39.11%\n- Coding day: 2.57 days/week\n- Rework: 3.75%\n- Pull Request size: 168.21 LOCs/week\n- Pull Request Merged with Reviewed: 80%\n- Pull Request Merged without Reviewed: 20%", 
  "buttons": [ 
  { 
  "title": "View Detail", 

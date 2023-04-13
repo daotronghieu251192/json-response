@@ -1,7 +1,7 @@
 { 
  "productivity": { 
  "set_attributes": { 
- "voucher_code": "" 
+ "voucher_code": "abc" 
  }, 
  "messages": [ 
  { 
@@ -21,7 +21,7 @@
  }, 
  "coding-day": { 
  "set_attributes": { 
- "voucher_code": "" 
+ "voucher_code": "abc" 
  }, 
  "messages": [ 
  { 
@@ -41,7 +41,7 @@
  },
  "locs": { 
  "set_attributes": { 
- "voucher_code": "" 
+ "voucher_code": "abc" 
  }, 
  "messages": [ 
  { 
